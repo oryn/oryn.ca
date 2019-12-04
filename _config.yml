@@ -1,7 +1,21 @@
 permalink: pretty
-
 theme: jekyll_patternbot
-
-
 patternbot:
+  title: "ORYN"
+  description: |
+    Graphic designer working between spaces.
   font_url: "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,400i,700|Source+Code+Pro:400,700"
+  colours:
+    background: "--colour-primary"
+    accent: "--colour-secondary"
+    patterns:
+      brand.logos: "--colour-primary"
+  rationales:
+    typefaces.primary: |
+      Akzidenz-Grotesk BQ was selected because of its wide X hight and bold interface.
+    typefaces.secondary: |
+      Akzidenz-Grotesk regular is my secondary font becuase it creates great contrast with Akzidenz-Grotesk BQ.
+    colors.primary: |
+      The primary colors unify the entire website.
+    colors.secondary: |
+      The secondary colours contrast the primary.

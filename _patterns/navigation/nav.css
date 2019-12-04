@@ -28,6 +28,11 @@
   margin: 0 auto;
 }
 
+.header {
+  max-width: 150px;
+  margin: 0 auto;
+}
+
 .title {
   color: #000;
   font-family: var(--font-secondary);
@@ -36,7 +41,7 @@
 @media only screen and (min-width: 25em) {
 
   .header-banner {
-    padding-top: 65%;
+    padding-top: 8%;
   }
 
 }
@@ -44,11 +49,11 @@
 @media only screen and (min-width: 38em) {
 
   .header-banner {
-    padding-top: 30%;
+    padding-top: 10%;
   }
 
   .nav li {
-    display: left;
+    text-align: left;
   }
 
 }

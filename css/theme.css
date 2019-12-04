@@ -1,13 +1,13 @@
 :root {
   --color-primary: black;
   --color-primary-light: grey;
-  --color-secondary: white;
+  --color-secondary: red;
   --color-accent: red;
   --color-neutral-beige: #e2e2e2;
   --color-whatever: black;
 
   --font-primary: "Akzidenz-Grotesk BQ", sans-serif;
-  --font-secondary: "Arial", sans-serif;
+  --font-secondary: "Akzidenz-Grotesk", sans-serif;
 }
 
 /*Typography*/
