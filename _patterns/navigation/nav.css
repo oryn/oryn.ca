@@ -1,0 +1,62 @@
+.header-banner {
+  background-color: #fff;
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 10%;
+}
+
+.nav-colour {
+  color: #000;
+  text-decoration: none;
+  font-family: var(--font-primary);
+  font-weight: bold;
+}
+
+.nav-colour:hover {
+  color: #fff;
+  border: solid;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom-width: thin;
+  border-color: #fff;
+}
+
+.logo {
+  max-width: 150px;
+  margin: 0 auto;
+}
+
+.title {
+  color: #000;
+  font-family: var(--font-secondary);
+}
+
+@media only screen and (min-width: 25em) {
+
+  .header-banner {
+    padding-top: 65%;
+  }
+
+}
+
+@media only screen and (min-width: 38em) {
+
+  .header-banner {
+    padding-top: 30%;
+  }
+
+  .nav li {
+    display: left;
+  }
+
+}
+
+@media only screen and (min-width: 90em) {
+
+  .header-banner {
+    padding-top: 20%;
+  }
+
+}
