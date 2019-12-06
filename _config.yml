@@ -3,7 +3,7 @@ theme: jekyll_patternbot
 patternbot:
   title: "ORYN"
   description: |
-    Graphic designer working between spaces.
+    Canadian graphic designer working between spaces, focused in branding.
   font_url: "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,400i,700|Source+Code+Pro:400,700"
   colours:
     background: "--colour-primary"

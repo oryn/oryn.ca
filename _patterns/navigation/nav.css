@@ -6,6 +6,16 @@
   padding-top: 10%;
 }
 
+h1 {
+  display: block;
+ font-size: 3.5em;
+ margin-top: 0.83em;
+ margin-bottom: 0.83em;
+ margin-left: 0;
+ margin-right: 0;
+ font-weight: bold;
+}
+
 .nav-colour {
   color: #000;
   text-decoration: none;
@@ -20,7 +30,7 @@
   border-left: 0;
   border-right: 0;
   border-bottom-width: thin;
-  border-color: #fff;
+  border-color: #red;
 }
 
 .logo {
