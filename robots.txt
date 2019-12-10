@@ -1,0 +1,6 @@
+# www.robotstxt.org
+
+Sitemap: http://oryn.ca/sitemap.xml
+
+User-Agent: *
+Disallow:
