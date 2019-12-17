@@ -5,11 +5,15 @@
   <title>ORYN</title>
   <link href="/css/main.css" rel="stylesheet">
   <link rel="stylesheet" href="https://use.typekit.net/ufi0zfp.css">
-
 </head>
+
 <body>
-  {% pattern navigation/nav %}
-  {{content}}
+  <div class="grid">
+    <div class="unit xs-1 s-1 m-1-3">
+      {% pattern navigation/nav %}
+    </div>
+    {{content}}
+  </div>
   {% pattern footer/footer %}
 </body>
 </html>
